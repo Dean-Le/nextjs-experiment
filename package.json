@@ -20,6 +20,7 @@
     "devDependencies": {
         "express": "^4.16.4",
         "isomorphic-unfetch": "^3.0.0",
-        "react": "^16.6.3"
+        "react": "^16.6.3",
+        "react-markdown": "^4.0.4"
     }
 }
